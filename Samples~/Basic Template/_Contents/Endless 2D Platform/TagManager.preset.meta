@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd55ad11771857f47aa842178a3943c1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241304
+  packageName: Military Landscape / War Core
+  packageVersion: 1.0
+  assetPath: Assets/War Landscape/Presets/TagManager.preset
+  uploadId: 551604

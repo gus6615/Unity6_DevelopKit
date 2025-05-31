@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 551aea932c4dfc4409440dd8893d5d86
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241304
+  packageName: Military Landscape / War Core
+  packageVersion: 1.0
+  assetPath: Assets/War Landscape/Prefabs/ParticleSystem.preset
+  uploadId: 551604

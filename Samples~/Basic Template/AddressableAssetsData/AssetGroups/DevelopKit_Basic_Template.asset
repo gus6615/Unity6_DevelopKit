@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: DevelopKit_Basic_Template
+  m_EditorClassIdentifier: 
+  m_GroupName: DevelopKit_Basic_Template
+  m_GUID: b00928af72edeb94aada75d216f0f4b8
+  m_SerializeEntries:
+  - m_GUID: 0275e0d5e878e3846840855dd655a610
+    m_Address: AudioMixer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0773f92c8be7a384fb1bd20a3ad004a1
+    m_Address: AtlasDataBase
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c7c5b4ff06c1ba40894bfb1f805cc12
+    m_Address: SFX/SFX_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ce9d41de6d90cb48bb7e6f0da7f76bc
+    m_Address: SFX/SFX_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e7a587164fcbef45b40536469e6c432
+    m_Address: SFX/Click_Mechanical
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e3f5560309234241825bc6f86164f4f
+    m_Address: SceneLoading
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37c9133889e2bfc4296ead93a281acc2
+    m_Address: SFX/Click_Punch
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c3f0f9f310ebae439f580af6d23c16c
+    m_Address: UI/SceneLoader_Default
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ce8f6db5199cab42b5436937f36a56b
+    m_Address: LobbyScene
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d89b6d5039682c4c92ea91955beef8d
+    m_Address: UI/SettingPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 432894f2eec2c9a40994dd08b37854ea
+    m_Address: SFX/SFX_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a13e6b4188e8dc49b36aa4cd8143b88
+    m_Address: BGM/BGM_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7301f24f8c1bdd1488afbd2722bad748
+    m_Address: UI/ConfirmAlert
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7576fee7027dab941baa062644ca3268
+    m_Address: UI/SceneTransitionFX_FadeInOut
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76b75c304dea40b4b90326b803184ed5
+    m_Address: StartUp
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8229ef0b9b6a3064389cb6210179bde2
+    m_Address: ExampleGO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b37aa88d76e1d645bf9713ac7c9fd32
+    m_Address: SFX/SFX_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0d4c02afb3752b4da18b3af37f1ceab
+    m_Address: SFX/SFX_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae70c6c716f30cc41a0abcbb9f90b6b6
+    m_Address: UI/LobbySelectPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b70ff82f0d0a44647bfff56eb139aba0
+    m_Address: JemView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb4b2baf35df1e14e9ac79f3906e0a90
+    m_Address: UI/SceneProgress_RotateCircle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c12d40421acc84a4b90823d6080bbad1
+    m_Address: SFX/Click_Whoosh
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca6905574cfee9e4eadd25a6f4577e66
+    m_Address: InGameScene
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb74762f025f1d4448b6df1b102bf717
+    m_Address: ManagerHub
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2302eed3d866b7489d83a1371cbb11a
+    m_Address: ProjectDataBase
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de815c08103508b40b0e51b7aee139bd
+    m_Address: Jems_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea2c478b749cecb49ac4a40a4c67067e
+    m_Address: SceneDataBase
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f090a9b9502f0794f941a7f72e9a0ef1
+    m_Address: BGM/BGM_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb06ff399a654c34582dd6df91755a63
+    m_Address: BGM/BGM_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6236bc522e26fc745b775b46df4fab55, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c7f327211ac61b241bf25d2617920916, type: 2}
+    - {fileID: 11400000, guid: 6fb939e61f692274fa7958263fb62c5c, type: 2}
