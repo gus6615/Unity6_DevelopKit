@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/gus6615/Unity6_DevelopKit/compare/v1.0.0...v1.0.1) (2025-06-01)
+
+
+### Bug Fixes
+
+* check SemVer up (v.1.0.1) ([e7a29d6](https://github.com/gus6615/Unity6_DevelopKit/commit/e7a29d6822525817a6c5c5002866377c7cc07911))
+
 # 1.0.0 (2025-06-01)
 
 
