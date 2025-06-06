@@ -17,6 +17,6 @@
     }
   ],
   "dependencies": {
-    "com.cysharp.unitask": "git+https://github.com/Cysharp/UniTask.git#2.5.0"
+    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
   }
 }
