@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/gus6615/Unity6_DevelopKit/compare/v1.0.2...v1.0.3) (2025-06-06)
+
+
+### Bug Fixes
+
+* openUPM test ([82d4c25](https://github.com/gus6615/Unity6_DevelopKit/commit/82d4c2567c16e30d65b13b54117e5d0c76dc3456))
+
 ## [1.0.2](https://github.com/gus6615/Unity6_DevelopKit/compare/v1.0.1...v1.0.2) (2025-06-04)
 
 
