@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/gus6615/Unity6_DevelopKit/compare/v1.0.6...v1.0.7) (2025-06-06)
+
+
+### Bug Fixes
+
+* fix dependancies 2 ([8b67eea](https://github.com/gus6615/Unity6_DevelopKit/commit/8b67eea0acafa8ae873d72585ba4d5d3f1456d07))
+
 ## [1.0.6](https://github.com/gus6615/Unity6_DevelopKit/compare/v1.0.5...v1.0.6) (2025-06-06)
 
 
