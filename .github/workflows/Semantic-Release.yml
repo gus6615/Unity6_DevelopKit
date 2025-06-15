@@ -7,10 +7,12 @@ jobs:
   semantic-release:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
+    - name: Checkout
+      uses: actions/checkout@v4
       with:
         fetch-depth: 0
-    - uses: cycjimmy/semantic-release-action@v4
+    - name: Semantic Release
+      uses: cycjimmy/semantic-release-action@v4
       with:
         extra_plugins: |
           @semantic-release/changelog
@@ -18,3 +20,5 @@ jobs:
         branch: master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Verdaccio Publish
+      uses: verdaccio/github-actions/publish@master

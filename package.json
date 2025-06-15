@@ -1,6 +1,6 @@
 {
   "name": "com.chennyang.developkit",
-  "version": "1.0.9",
+  "version": "1.0.0",
   "displayName": "DevelopKit",
   "description": "This package provides useful features and templates for initial development.",
   "unity": "2019.1",
@@ -12,7 +12,7 @@
   "samples": [
     {
       "displayName": "Basic Template",
-      "description": "초기 개발에 유용한 기능과 템플릿을 제공합니다.",
+      "description": "This is Basci Template for initial Unity Project.",
       "path": "Samples~/Basic Template"
     }
   ],
