@@ -6,11 +6,21 @@ on:
 jobs:
   semantic-release:
     runs-on: ubuntu-latest
+
     steps:
     - name: Checkout
       uses: actions/checkout@v4
       with:
         fetch-depth: 0
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: 18
+
+    - name: Install dependencies
+      run: npm ci
+
     - name: Semantic Release
       uses: cycjimmy/semantic-release-action@v4
       with:
@@ -20,5 +30,11 @@ jobs:
         branch: master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    - name: Verdaccio Publish
-      uses: verdaccio/github-actions/publish@master
+
+    - name: Configure npm for Verdaccio
+      run: |
+          echo "//158.180.69.176:4873/:_authToken=N2ZjNGRiNjRmNDM5M2VkOTdhNGE1MTkzOGQ5NzI5Njk6MmMwYzllOWIwNjA4ZWQ1NGRkNDY0Njc0YmM0YmYw" > ~/.npmrc
+
+    - name: Publish to Verdaccio
+      run: npm publish --registry http://158.180.69.176:4873/
+      
