@@ -1,6 +1,6 @@
 {
   "name": "com.chennyang.developkit",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "displayName": "DevelopKit",
   "description": "This package provides useful features and templates for initial development.",
   "unity": "2019.1",

@@ -1,3 +1,10 @@
+## [1.0.15](https://github.com/gus6615/Unity6_DevelopKit/compare/v1.0.14...v1.0.15) (2025-06-15)
+
+
+### Bug Fixes
+
+* verdaccio test ([83b6d3c](https://github.com/gus6615/Unity6_DevelopKit/commit/83b6d3c6807d9efbe2c128df49c8d90934c277e6))
+
 ## [1.0.14](https://github.com/gus6615/Unity6_DevelopKit/compare/v1.0.13...v1.0.14) (2025-06-15)
 
 
